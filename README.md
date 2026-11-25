@@ -7,9 +7,14 @@
 * HTML 1 ファイルのシンプルなカウンターアプリを作ってみる
 * ただ作るのではなく、開発ルールや仕様をファイルに残し、AI エージェントと継続的に開発できるようにする
 
-アプリイメージ  
-   ![alt text](docs/images/2026-11-25T03-09-58-318Z.png)
-   ![alt text](docs/images/2026-11-25T03-10-19-345Z.png)
+### アプリイメージ  
+
+![alt text](docs/images/2026-11-25T03-09-58-318Z.png)
+![alt text](docs/images/2026-11-25T03-10-19-345Z.png)
+
+### 開発イメージ
+
+![alt text](docs/images/2026-11-23T21-22-13-101Z.png)
 
 ## 詳細
 
@@ -29,8 +34,6 @@
 
 * Visual Studio Code
 * 拡張機能「Google Antigravity」
-
-![alt text](docs/images/2026-11-23T21-22-13-101Z.png)
 
 ### 進め方
 
